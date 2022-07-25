@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.emergencyservice">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.EmergencyService">
+        <activity
+            android:name=".AboutUs"
+            android:exported="false" />
+        <activity
+            android:name=".ContactUs"
+            android:exported="false" />
+        <activity
+            android:name=".Acme"
+            android:exported="false" />
+        <activity
+            android:name=".Transcom"
+            android:exported="false" />
+        <activity
+            android:name=".Delta"
+            android:exported="false" />
+        <activity
+            android:name=".Drug"
+            android:exported="false" />
+        <activity
+            android:name=".Reneta"
+            android:exported="false" />
+        <activity
+            android:name=".Incepta"
+            android:exported="false" />
+        <activity
+            android:name=".Square"
+            android:exported="false" />
+        <activity
+            android:name=".Aci"
+            android:exported="false" />
+        <activity
+            android:name=".Beximco"
+            android:exported="false" />
+        <activity
+            android:name=".Blood2"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity3"
+            android:exported="false" />
+        <activity
+            android:name=".Blood"
+            android:exported="false" />
+        <activity
+            android:name=".Medicine"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".Account"
+            android:exported="false" />
+        <activity
+            android:name=".LoginPage"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

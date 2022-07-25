@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Emergency Service</string>
+
+    <string-array name="blood_donar">
+        <item>Wahid</item>
+        <item>Likhon</item>
+        <item>Sajal</item>
+        <item>Mithu</item>
+        <item>Sabbir</item>
+        <item>Rocky</item>
+        <item>Nahid</item>
+        <item>Liton</item>
+        <item>Asif</item>
+        <item>Saifur</item>
+        <item>Sakib</item>
+        <item>Tamim</item>
+    </string-array>
+
+
+    <string-array name="phoneNumber">
+        <item>01712548879</item>
+        <item>01512345678</item>
+        <item>01598745632</item>
+        <item>01921211120</item>
+        <item>01924645420</item>
+        <item>01845698712</item>
+        <item>01796385210</item>
+        <item>01432156532</item>
+        <item>01602415540</item>
+        <item>01102212454</item>
+        <item>01756465213</item>
+        <item>01687672742</item>
+    </string-array>
+
+    <string-array name="blood_group">
+        <item>B+</item>
+        <item>B+</item>
+        <item>B+</item>
+        <item>O+</item>
+        <item>A+</item>
+        <item>B-</item>
+        <item>O-</item>
+        <item>A-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>O-</item>
+        <item>A-</item>
+    </string-array>
+
+    <string name="aboutus">
+        Usually people in our country get in trouble with medicine and blood. As a result, human suffering increases. And this emergency service to alleviate this suffering. From this Emergency Services app, people can easily view medicine and blood donor information. You will also find information about the price of medicine and more information from different companies. You can also find out all the information about a persons blood transfusion.
+    </string>
+
+
+</resources>
